@@ -102,7 +102,7 @@ const ListHeader = ({ setLoading }) => {
         </View>
       </View>
       <View style={styles.searchViewWrappper}>
-        <UIInput style={styles.searchContainer} placeholder="Search" onChangeInputHandler={_onSearchInputChange} value={searchQuery} onSubmit={_onSubmitSearch} icon={renderIcon} />
+        <UIInput style={styles.searchContainer} placeholder="Search for an author" onChangeInputHandler={_onSearchInputChange} value={searchQuery} onSubmit={_onSubmitSearch} icon={renderIcon} />
       </View>
     </View>
   );
