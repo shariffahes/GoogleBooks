@@ -43,8 +43,7 @@ The idea was to use webview to preview the recaptcha and then download the file,
 <img src="https://user-images.githubusercontent.com/22710660/167312448-0088eaa8-f56e-4b66-af11-54c2b3adfed5.png" width="250px" height="500px"/>
 
 ### PreviewScreen:
-<img src="https://user-images.githubusercontent.com/22710660/167312448-0088eaa8-f56e-4b66-af11-54c2b3adfed5.png" width="250px" height="500px"/>
+<img src="https://user-images.githubusercontent.com/22710660/167312813-7530cc71-f7a2-4a6e-be8b-52dc627284a6.png" width="250px" height="500px"/>
 <img src="https://user-images.githubusercontent.com/22710660/167312540-9a6f3a9f-08fd-4ddc-aeed-a7a8a6e6f628.png" width="250px" height="500px"/>
 <img src="https://user-images.githubusercontent.com/22710660/167312555-db94926a-24cc-496a-8944-eb7eb7daba78.png" width="250px" height="500px"/>
-
 
